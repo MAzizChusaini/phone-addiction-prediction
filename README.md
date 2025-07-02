@@ -14,11 +14,12 @@ Masalah kecanduan media sosial di kalangan pelajar perlu diselesaikan karena ber
 Berbagai penelitian telah menyoroti dampak negatif penggunaan media sosial yang berlebihan pada pelajar. Misalnya, sebuah studi oleh Primack et al. (2017) menemukan bahwa penggunaan media sosial yang lebih tinggi secara signifikan dikaitkan dengan peningkatan risiko depresi yang dirasakan [2]. Penelitian lain oleh Rosen et al. (2016) menunjukkan adanya korelasi antara penggunaan media sosial yang sering dengan peningkatan gejala kecemasan [3]. Lebih lanjut, Alhassan et al. (2018) dalam meta-analisis mereka menemukan hubungan negatif antara penggunaan media sosial dan performa akademik [4]. Studi-studi ini menggarisbawahi pentingnya memahami dan mengatasi potensi dampak buruk kecanduan media sosial di kalangan pelajar.
 
 referrence:
+
 [1] Kuss, D. J., & Griffiths, M. D. (2011). Online social networking addiction: A systematic review of recent research. International Journal of Environmental Research and Public Health, 8(9), 3528-3552. [IEEE]
 
 [2] Primack, B. A., Shensa, A., Sidani, J. E., Whaite, E. O., Lin, L. Y., Colditz, J. B., ... & Miller, E. (2017). Association between social media use and perceived social isolation in young adults. American Journal of Preventive Medicine, 53(1), 1-8. [APA]
 
-[3] Rosen, L. D., Whaling, L. S., Rab, S., Carrier, L. M., & Cheever, N. A. (2013). The media and technology usage and attitudes scale: An empirical investigation. Computers in Human Behavior, 29(6), 2501-2511. (Meskipun tahun sitasi di teks 2016, ini adalah referensi yang lebih tepat) [Umum]
+[3] Rosen, L. D., Whaling, L. S., Rab, S., Carrier, L. M., & Cheever, N. A. (2013). The media and technology usage and attitudes scale: An empirical investigation. Computers in Human Behavior, 29(6), 2501-2511. [Umum]
 
 [4] Alhassan, A. S., Lin, D., Hossain, S. F. A., Ahmed, T., & Cheema, S. (2018). The association between social media use and academic performance among university students: A meta-analytic review. Education and Information Technologies, 23(6), 2543-2559. [Umum]
 
